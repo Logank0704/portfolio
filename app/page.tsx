@@ -82,11 +82,13 @@ function Hero() {
               <a href="#about">About me</a>
             </Button>
             <a
-              href="/resume.pdf"
-              className="inline-flex items-center text-sm underline underline-offset-4 text-neutral-200"
+              href="/Resume_2025_Logan_Klein.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center text-sm underline underline-offset-4 text-neutral-200 hover:text-white transition"
             >
-              Download résumé <ExternalLink className="h-4 w-4 ml-1" />
-            </a>
+              Download Résumé <ExternalLink className="h-4 w-4 ml-1" />
+          </a> 
           </div>
 
           <div className="mt-6 flex flex-wrap items-center gap-5 text-neutral-300">
