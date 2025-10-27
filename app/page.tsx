@@ -93,7 +93,7 @@ function Hero() {
 
           <div className="mt-6 flex flex-wrap items-center gap-5 text-neutral-300">
             <span className="inline-flex items-center">
-              <MapPin className="h-4 w-4 mr-1" /> North Carolina, USA
+              <MapPin className="h-4 w-4 mr-1" /> Raleigh, NC USA
             </span>
             <a className="inline-flex items-center hover:text-white" href="mailto:Lnklein@ncsu.edu">
               <Mail className="h-4 w-4 mr-1" /> Email
