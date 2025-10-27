@@ -68,10 +68,10 @@ function Hero() {
           </h1>
 
           <p className="text-base md:text-lg mt-4 text-neutral-300">
-            I’m Logan Klein, a rising junior specializing in <strong>cloud security</strong> and full-stack
-            engineering. I enjoy hardening AWS workloads, automating guardrails with IaC and CI/CD, and building
-            secure-by-default services. I’m open to opportunities across AppSec and platform/infra, with a strong
-            focus on cloud-first environments.
+            I’m Logan Klein, a Computer Science junior at NC State specializing in <strong>cloud security</strong> and <strong>DevSecOps</strong>. 
+            I focus on securing AWS and Azure environments, embedding least-privilege IAM and CI/CD guardrails, and 
+            engineering <strong>secure-by-default services</strong> that scale reliably in cloud-first architectures. 
+            I’m passionate about <strong>AI security, application security, and platform engineering</strong> that help organizations ship faster without sacrificing trust.
           </p>
 
           <div className="mt-6 flex flex-wrap items-center gap-3">
